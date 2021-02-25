@@ -1,0 +1,104 @@
+body {
+    background-color: #393e46;
+}
+
+#header {
+    background-color: #192026;
+    width: 1000px;
+    height: 11500px;
+    /* margin-left: 220px; */
+    margin: 0 auto;
+    margin-top: 100px;
+}
+
+
+  
+  .topnav {
+    overflow: hidden;
+    background-color: #333;
+    /* position: fixed; */
+  }
+  
+  .topnav a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+
+  .topnav a.active {
+    background-color: darkgreen;
+    color: white;
+  }
+  .sidebar {
+      width: 230px;
+      padding-top: 10px;
+  }
+  .sdia {
+    text-decoration: none;
+    color: #a1acb4;
+  }
+  .sdia:hover {
+    color: darkslategray;
+  }
+  .sidebar-items {
+      color: #a1acb4;
+      /* float: left; */
+      margin-top: 15px;
+      font-size: 15px;
+  } 
+
+.vl {
+    border-right: 6px solid #a1acb4;
+    height: 1010px;
+    margin-top: -1020px;
+    margin-left: 270px;
+}
+.allMovies {
+  margin-top: -1000px;
+  margin-left: 300px;
+}
+.blockImage {
+  width: 200px;
+}
+.blockInfo {
+  color: #a1acb4;
+  margin-left: 220px;
+  margin-top: -280px;
+  /* float: left; */
+}
+.movieBlock {
+  margin-bottom: 120px;
+}
+.blockS {
+  text-decoration: none;
+  color: blue;
+  margin-left: 240px;
+}
+.blockS:hover {
+  color: darkslategray;
+}
+.footer {
+  background-color: #281f55;
+  height: 400px;
+}
+.foot {
+  color: rgb(247, 214, 214);
+  text-align: center;
+  padding-top: 130px;
+}
+.foots {
+  color: rgb(238, 167, 167);
+  text-decoration: none;
+}
+.foots:hover {
+  color: rgb(218, 57, 57);
+}
